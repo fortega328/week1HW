@@ -2,6 +2,8 @@
 Accessibility Assignment
 ### These files were moved from one repo to another so the history may not be complete. 
 
+## Fixed navBar link to element in page
+
 ## Added alt tags for Images
 
 ## Added some semantic tags in place of div
